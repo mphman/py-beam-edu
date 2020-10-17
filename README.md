@@ -1,3 +1,3 @@
-# py_beam_edu
+# py-beam-edu
 
 Learning Apache Beam
